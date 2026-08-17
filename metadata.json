@@ -1,0 +1,5 @@
+{
+  "name": "Rehoboth Clinic Hospital Management System",
+  "description": "A comprehensive hospital management system for The Rehoboth Clinic and Maternity, featuring role-based access for CMD, Doctors, Nurses, Lab, Accountants, Receptionists, and Pharmacy.",
+  "requestFramePermissions": []
+}
